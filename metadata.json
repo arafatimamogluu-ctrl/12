@@ -1,0 +1,7 @@
+{
+  "name": "Copy of WA-SaaS Elite Enterprise",
+  "description": "Premium WhatsApp Marketing Hub for large-scale enterprise automation, secure CRM synchronization, and AI-powered campaign management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

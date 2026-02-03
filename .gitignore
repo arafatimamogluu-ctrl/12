@@ -1,0 +1,11 @@
+
+# Bağımlılıklar
+node_modules/
+.DS_Store
+
+# IDE Dosyaları
+.vscode/
+.idea/
+
+# Gizli Bilgiler
+.env
